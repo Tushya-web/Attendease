@@ -147,7 +147,7 @@ https://github.com/user-attachments/assets/03b4130c-6bcc-4957-811b-0bff7711e6cb
 
 **1️. Clone the Repository**
 ```
-git clone https://github.com/Tushya-web/Attendease_3.9.git
+git clone https://github.com/Tushya-web/Attendease.git
 
 ```
 
@@ -219,6 +219,7 @@ AI and Computer Vision Enthusiast
 ![GitHub Repo stars](https://img.shields.io/github/stars/Tushya-web/Attendease_3.9?style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/Tushya-web/Attendease_3.9?style=flat)
 ![GitHub issues](https://img.shields.io/github/issues/Tushya-web/Attendease_3.9?style=flat)
+
 
 
 
