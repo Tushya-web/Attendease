@@ -72,40 +72,40 @@ Export attendance reports
 ### Installation & Setup (Step-by-Step)
 
 1️.Clone the Repository
-
+```
 git clone https://github.com/Tushya-web/Attendease_3.9.git
 
 cd attendease
-
+```
 2️.Create Virtual Environment
-
+```
 python -m venv env
 
 source env/bin/activate   # Linux/Mac
 
 env\Scripts\activate      # Windows
-
+```
 
 3️.Install Dependencies
-
+```
 pip install -r requirements.txt
-
+```
 4️.Apply Migrations
-
+```
 python manage.py makemigrations
 
 python manage.py migrate
-
+```
 
 5️.Create Superuser (Admin Login)
-
+```
 python manage.py createsuperuser
-
+```
 
 6️.Run Development Server
-
+```
 python manage.py runserver
-
+```
 
 ## Project Structure
 AttendEase/
@@ -151,6 +151,7 @@ AttendEase/
 Tushya R. Parmar
 
 AI Engineer in Progress • Computer Vision Enthusiast
+
 
 
 
