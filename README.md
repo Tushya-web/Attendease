@@ -4,7 +4,7 @@
 ### AttendEase is a full-stack, intelligent attendance automation system powered by Django, DeepFace/FaceNet, OpenCV, and a clean Jazzmin-powered admin dashboard.
 It features secure face verification, user registration, attendance tracking, leave management, and admin control.
 
-https://github.com/user-attachments/assets/03b4130c-6bcc-4957-811b-0bff7711e6cb
+!(https://github.com/user-attachments/assets/03b4130c-6bcc-4957-811b-0bff7711e6cb)
 
 ## Project Information
 
@@ -149,6 +149,7 @@ python manage.py runserver
 Tushya R. Parmar
 
 AI and Computer Vision Enthusiast
+
 
 
 
