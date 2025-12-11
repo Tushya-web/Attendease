@@ -1,4 +1,3 @@
-﻿# Attendease_3.9 
- 
-https://github.com/user-attachments/assets/b3f47f9e-0c13-4295-97e0-e3d7a78142c0
+Some Clips of the Attendease
 
+https://github.com/user-attachments/assets/03b4130c-6bcc-4957-811b-0bff7711e6cb
