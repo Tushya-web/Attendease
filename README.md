@@ -9,6 +9,12 @@ It features secure face verification, user registration, attendance tracking, le
 
 https://github.com/user-attachments/assets/03b4130c-6bcc-4957-811b-0bff7711e6cb
 
+## 📘 Technology Documentation
+[![Django Docs](https://img.shields.io/badge/Django-Documentation-0C4B33?style=for-the-badge)](https://docs.djangoproject.com/)
+[![OpenCV Docs](https://img.shields.io/badge/OpenCV-Documentation-5C3EE8?style=for-the-badge)](https://docs.opencv.org/)
+[![DeepFace Docs](https://img.shields.io/badge/DeepFace-Documentation-F9A825?style=for-the-badge)](https://serengil.github.io/deepface/)
+[![FaceNet Paper](https://img.shields.io/badge/FaceNet-Research%20Paper-1976D2?style=for-the-badge)](https://arxiv.org/abs/1503.03832)
+
 ## Project Information
 
 _Django-based Web Application_
@@ -110,15 +116,6 @@ python manage.py createsuperuser
 ```
 python manage.py runserver
 ```
-![7wB8yGRzX5](https://github.com/user-attachments/assets/edcb9c4c-baed-4f21-b501-0ec18d6291fd)
-
-## 📘 Technology Documentation
-[![Django Docs](https://img.shields.io/badge/Django-Documentation-0C4B33?style=for-the-badge)](https://docs.djangoproject.com/)
-[![OpenCV Docs](https://img.shields.io/badge/OpenCV-Documentation-5C3EE8?style=for-the-badge)](https://docs.opencv.org/)
-[![DeepFace Docs](https://img.shields.io/badge/DeepFace-Documentation-F9A825?style=for-the-badge)](https://serengil.github.io/deepface/)
-[![FaceNet Paper](https://img.shields.io/badge/FaceNet-Research%20Paper-1976D2?style=for-the-badge)](https://arxiv.org/abs/1503.03832)
-
-
 
 ## Project Structure
 ```
@@ -153,6 +150,7 @@ AttendEase/
 Tushya R. Parmar
 
 AI and Computer Vision Enthusiast
+
 
 
 
