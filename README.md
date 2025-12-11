@@ -10,6 +10,7 @@ It features secure face verification, user registration, attendance tracking, le
 
 ## Table of Contents
 - [Technology Documentation](#-technology-documentation-which-used)
+- [Screenshot and Demo](#screen)
 - [Project Information](#project-information)
 - [AI + Face Verification](#ai--face-verification)
 - [User Portal](#user-portal)
@@ -71,7 +72,7 @@ It features secure face verification, user registration, attendance tracking, le
 
 </p>
 
-## 🖼 Screenshots
+- [Screenshots](#screen)
 
 ### Index Page
 <p align="center">
@@ -219,6 +220,7 @@ AI and Computer Vision Enthusiast
 ![GitHub Repo stars](https://img.shields.io/github/stars/Tushya-web/Attendease_3.9?style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/Tushya-web/Attendease_3.9?style=flat)
 ![GitHub issues](https://img.shields.io/github/issues/Tushya-web/Attendease_3.9?style=flat)
+
 
 
 
