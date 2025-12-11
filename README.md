@@ -1,3 +1,5 @@
+
+<img width="500" height="127" alt="AttendEase" src="https://github.com/user-attachments/assets/18f6c229-4bda-4c21-b791-4ee18e2ccdc3" />
 # AttendEase – AI Powered Face Recognition Attendance System
 ## (Django + DeepFace/FaceNet + Jazzmin + HTML/CSS/JS)
 
@@ -107,57 +109,13 @@ python manage.py createsuperuser
 ```
 python manage.py runserver
 ```
+![7wB8yGRzX5](https://github.com/user-attachments/assets/edcb9c4c-baed-4f21-b501-0ec18d6291fd)
 
-## Project Structure
-> AttendEase/
+[![DeepFace](https://img.shields.io/badge/DeepFace-Documentation-orange)](https://serengil.github.io/deepface/)
 
-> ├── attendease/               # Core Django project
-
-> ├── attendance_app/           # Main features
-
-> │   ├── models.py             # Database models
-
-> │   ├── views.py              # Logic & AI processing
-
-> │   ├── detectors/            # FaceNet + Liveness
-
-> │   ├── static/               # CSS, JS
-
-> │   ├── templates/            # HTML pages
-
-> │   ├── utils/                # Helper scripts
-
-> │   └── urls.py
-
-
-> ├── media/                    # User uploaded images
-
-> │   ├── master_faces/
-
-> │   └── user_faces/
-
-> ├── requirements.txt
-
-> └── README.md
 
 ### Author
 
 Tushya R. Parmar
 
 AI and Computer Vision Enthusiast
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
