@@ -75,7 +75,6 @@ Export attendance reports
 ```
 git clone https://github.com/Tushya-web/Attendease_3.9.git
 
-cd attendease
 ```
 2️. Create Virtual Environment
 ```
@@ -149,6 +148,7 @@ python manage.py runserver
 Tushya R. Parmar
 
 AI and Computer Vision Enthusiast
+
 
 
 
