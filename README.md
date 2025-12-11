@@ -6,23 +6,23 @@ It features secure face verification, user registration, attendance tracking, le
 
 https://github.com/user-attachments/assets/03b4130c-6bcc-4957-811b-0bff7711e6cb
 
-## Project Highlights
+> [!TIP] Project Highlights
 
-🔹 Django-based Web Application
+> Django-based Web Application
 
-🔹 Face Recognition using DeepFace (FaceNet backend)
+> Face Recognition using DeepFace (FaceNet backend)
 
-🔹 Real-Time Attendance Marking with Liveness Detection
+> Real-Time Attendance Marking with Liveness Detection
 
-🔹 Admin Dashboard Powered by Jazzmin
+> Admin Dashboard Powered by Jazzmin
 
-🔹 Student/Employee Management
+> Student/Employee Management
 
-🔹 Daily Attendance, Time-based Attendance (IN/OUT)
+> Daily Attendance, Time-based Attendance (IN/OUT)
 
-🔹 Export Attendance as CSV/Excel
+> Export Attendance as CSV/Excel
 
-🔹 Responsive UI (HTML, CSS, JS)
+> Responsive UI (HTML, CSS, JS)
 
 ## AI + Face Verification
 
@@ -71,13 +71,13 @@ Export attendance reports
 
 ### Installation & Setup (Step-by-Step)
 
-1️.Clone the Repository
+1️. Clone the Repository
 ```
 git clone https://github.com/Tushya-web/Attendease_3.9.git
 
 cd attendease
 ```
-2️.Create Virtual Environment
+2️. Create Virtual Environment
 ```
 python -m venv env
 
@@ -86,23 +86,23 @@ source env/bin/activate   # Linux/Mac
 env\Scripts\activate      # Windows
 ```
 
-3️.Install Dependencies
+3️. Install Dependencies
 ```
 pip install -r requirements.txt
 ```
-4️.Apply Migrations
+4️. Apply Migrations
 ```
 python manage.py makemigrations
 
 python manage.py migrate
 ```
 
-5️.Create Superuser (Admin Login)
+5️. Create Superuser (Admin Login)
 ```
 python manage.py createsuperuser
 ```
 
-6️.Run Development Server
+6️. Run Development Server
 ```
 python manage.py runserver
 ```
@@ -148,7 +148,7 @@ python manage.py runserver
 
 Tushya R. Parmar
 
-AI Engineer in Progress • Computer Vision Enthusiast
+AI and Computer Vision Enthusiast
 
 
 
