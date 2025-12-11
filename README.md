@@ -52,7 +52,7 @@ Update personal information
 
 Download attendance (PDF/CSV)
 
-🔹 Admin Panel (Jazzmin Dashboard)
+## Admin Panel (Jazzmin Dashboard)
 
 Upload master data (student/faculty records)
 
@@ -70,6 +70,7 @@ Export attendance reports
 
 
 ### Installation & Setup (Step-by-Step)
+
 1️.Clone the Repository
 
 git clone https://github.com/Tushya-web/Attendease_3.9.git
@@ -150,5 +151,6 @@ AttendEase/
 Tushya R. Parmar
 
 AI Engineer in Progress • Computer Vision Enthusiast
+
 
 
