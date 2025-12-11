@@ -112,7 +112,20 @@ python manage.py runserver
 ```
 ![7wB8yGRzX5](https://github.com/user-attachments/assets/edcb9c4c-baed-4f21-b501-0ec18d6291fd)
 
-[![DeepFace](https://img.shields.io/badge/DeepFace-Documentation-orange)](https://serengil.github.io/deepface/)
+## 📘 Technology Documentation
+
+### 🔗 Django Documentation
+https://docs.djangoproject.com/
+
+### 🔗 OpenCV Documentation
+https://docs.opencv.org/
+
+### 🔗 DeepFace Documentation
+https://serengil.github.io/deepface/
+
+### 🔗 FaceNet Paper (Google Research)
+https://arxiv.org/abs/1503.03832
+
 
 ## Project Structure
 ```
@@ -147,6 +160,7 @@ AttendEase/
 Tushya R. Parmar
 
 AI and Computer Vision Enthusiast
+
 
 
 
