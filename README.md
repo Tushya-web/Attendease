@@ -1,6 +1,9 @@
 
 <center><img width="290" height="80" alt="AttendEase" src="https://github.com/user-attachments/assets/18f6c229-4bda-4c21-b791-4ee18e2ccdc3" /></center>
 
+> AttendEase is an AI-powered face recognition attendance system built with Django, DeepFace (FaceNet), OpenCV, and Jazzmin.  
+> It ensures secure, real-time attendance logging using deep learning–based face verification and anti-spoofing.
+
 # AttendEase – AI Powered Face Recognition Attendance System
 > (Django + DeepFace/FaceNet + Jazzmin + HTML/CSS/JS)
 
@@ -68,8 +71,6 @@ It features secure face verification, user registration, attendance tracking, le
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
 </a>
-
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 </p>
 
@@ -194,6 +195,10 @@ AttendEase/
 Tushya R. Parmar
 
 AI and Computer Vision Enthusiast
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Tushya-web/Attendease_3.9?style=flat)
+![GitHub forks](https://img.shields.io/github/forks/Tushya-web/Attendease_3.9?style=flat)
+![GitHub issues](https://img.shields.io/github/issues/Tushya-web/Attendease_3.9?style=flat)
 
 
 
