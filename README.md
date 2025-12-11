@@ -216,9 +216,13 @@ Tushya R. Parmar
 
 AI and Computer Vision Enthusiast
 
+> Disclaimer: This project is created for educational and academic purposes only. It is not affiliated with or based on any existing product, company, or trademark.
+
+
 ![GitHub Repo stars](https://img.shields.io/github/stars/Tushya-web/Attendease_3.9?style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/Tushya-web/Attendease_3.9?style=flat)
 ![GitHub issues](https://img.shields.io/github/issues/Tushya-web/Attendease_3.9?style=flat)
+
 
 
 
