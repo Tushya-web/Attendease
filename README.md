@@ -9,7 +9,7 @@ It features secure face verification, user registration, attendance tracking, le
 
 https://github.com/user-attachments/assets/03b4130c-6bcc-4957-811b-0bff7711e6cb
 
-## 📘 Technology Documentation
+## 📘 Technology Documentation which used
 [![Django Docs](https://img.shields.io/badge/Django-Documentation-0C4B33?style=for-the-badge)](https://docs.djangoproject.com/)
 [![OpenCV Docs](https://img.shields.io/badge/OpenCV-Documentation-5C3EE8?style=for-the-badge)](https://docs.opencv.org/)
 [![DeepFace Docs](https://img.shields.io/badge/DeepFace-Documentation-F9A825?style=for-the-badge)](https://serengil.github.io/deepface/)
@@ -150,6 +150,7 @@ AttendEase/
 Tushya R. Parmar
 
 AI and Computer Vision Enthusiast
+
 
 
 
