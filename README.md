@@ -8,7 +8,7 @@
 ### AttendEase is a full-stack, intelligent attendance automation system powered by Django, DeepFace/FaceNet, OpenCV, and a clean Jazzmin-powered admin dashboard.
 It features secure face verification, user registration, attendance tracking, leave management, and admin control.
 
-## 📑 Table of Contents
+## Table of Contents
 - [Technology Documentation](#-technology-documentation-which-used)
 - [Project Information](#project-information)
 - [AI + Face Verification](#ai--face-verification)
@@ -20,7 +20,7 @@ It features secure face verification, user registration, attendance tracking, le
 - [Author](#author)
 
 
-## 📘 Technology Documentation which used
+- [Technology Documentation](#technology-documentation-which-used)
 <!-- Tech Stack Badges -->
 <p align="left">
 
@@ -73,31 +73,31 @@ It features secure face verification, user registration, attendance tracking, le
 
 ## 🖼 Screenshots
 
-### 🏠 Index Page
+### Index Page
 <p align="center">
   <img src="https://github.com/user-attachments/assets/de6da535-f86a-4315-a29c-66527c078409" alt="Index Page" width="800"/>
 </p>
 
 ---
 
-### 🛠 Admin Dashboard (Jazzmin)
+### Admin Dashboard 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fd5eb022-6f4d-4dc2-a0c2-7ad3905fb48d" alt="Admin Dashboard" width="800"/>
 </p>
 
 ---
 
-### 👤 User Dashboard
+### User Dashboard
 <p align="center">
-  <img src="[YOUR_USER_DASHBOARD_IMAGE_LINK](https://github.com/user-attachments/assets/a01975f3-d9c7-4a8c-ad60-820e106b4042)" alt="User Dashboard" width="800"/>
+  <img src="https://github.com/user-attachments/assets/a01975f3-d9c7-4a8c-ad60-820e106b4042" alt="User Dashboard" width="800"/>
 </p>
 
 
 
-## 🎥 Demo
+## Demo
 https://github.com/user-attachments/assets/03b4130c-6bcc-4957-811b-0bff7711e6cb 
 
-## ⭐ Features
+## Features
 - Django-based full-stack architecture  
 - DeepFace FaceNet-based face matching  
 - Secure master-face verification  
@@ -219,6 +219,7 @@ AI and Computer Vision Enthusiast
 ![GitHub Repo stars](https://img.shields.io/github/stars/Tushya-web/Attendease_3.9?style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/Tushya-web/Attendease_3.9?style=flat)
 ![GitHub issues](https://img.shields.io/github/issues/Tushya-web/Attendease_3.9?style=flat)
+
 
 
 
