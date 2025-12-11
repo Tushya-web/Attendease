@@ -7,7 +7,18 @@
 ### AttendEase is a full-stack, intelligent attendance automation system powered by Django, DeepFace/FaceNet, OpenCV, and a clean Jazzmin-powered admin dashboard.
 It features secure face verification, user registration, attendance tracking, leave management, and admin control.
 
-https://github.com/user-attachments/assets/03b4130c-6bcc-4957-811b-0bff7711e6cb
+## 📑 Table of Contents
+- [Technology Documentation](#-technology-documentation-which-used)
+- [Project Information](#project-information)
+- [AI + Face Verification](#ai--face-verification)
+- [User Portal](#user-portal)
+- [Admin Panel](#admin-panel-jazzmin-dashboard)
+- [Demo](#demo)
+- [Installation](#installation--setup-step-by-step)
+- [Project Structure](#project-structure)
+- [Author](#author)
+
+
 
 ## 📘 Technology Documentation which used
 <!-- Tech Stack Badges -->
@@ -60,70 +71,54 @@ https://github.com/user-attachments/assets/03b4130c-6bcc-4957-811b-0bff7711e6cb
 
 </p>
 
+## 🎥 Demo
+![AttendEase Demo](https://github.com/user-attachments/assets/03b4130c-6bcc-4957-811b-0bff7711e6cb)
 
+## ⭐ Features
+- Django-based full-stack architecture  
+- DeepFace FaceNet-based face matching  
+- Secure master-face verification  
+- Real-time webcam-based recognition  
+- IN/OUT time-based attendance  
+- User + Admin dashboards  
+- Leave management system  
+- Attendance export (CSV/PDF)  
 
 ## Project Information
 
-_Django-based Web Application_
-
-_Face Recognition using DeepFace (FaceNet backend)_
-
-_Real-Time Attendance Marking with Liveness Detection_
-
-_Admin Dashboard Powered by Jazzmin_
-
-_Student/Employee Management_
-
-_Daily Attendance, Time-based Attendance (IN/OUT)_
-
-_Export Attendance as CSV/Excel_
-
-_Responsive UI (HTML, CSS, JS)_
+- Django-based Web Application
+- Face Recognition using DeepFace (FaceNet backend)
+- Real-Time Attendance Marking with Liveness Detection
+- Admin Dashboard Powered by Jazzmin
+- Student/Employee Management
+- Daily Attendance, Time-based Attendance (IN/OUT)
+- Export Attendance as CSV/Excel
+- Responsive UI (HTML, CSS, JS)
 
 ## AI + Face Verification
-
-_DeepFace with FaceNet model_
-
-_Real-time webcam recognition_
-
-_Liveness detection (anti-spoofing)__
-
-_Face must match the master/default face uploaded by admin_
+- DeepFace with FaceNet model
+- Real-time webcam recognition
+- Liveness detection (anti-spoofing)
+- Face must match the master/default face uploaded by admin
 
 ## User Portal
-
-_Register & Login_
-
-_Add face (must match master data)_
-
-_Mark attendance_
-
-_View attendance_
-
-_View uploaded faces_
-
-_Apply for leave_
-
-_Update personal information_
-
-_Download attendance (PDF/CSV)_
+- Register & Login
+- Add face (must match master data)
+- Mark attendance
+- View attendance
+- View uploaded faces
+- Apply for leave
+- Update personal information
+- Download attendance (PDF/CSV)
 
 ## Admin Panel (Jazzmin Dashboard)
-
-_Upload master data (student/faculty records)_
-
-_Approve or reject user registration_
-
-_Manage users, faculty, students_
-
-_Approve/reject leave requests_
-
-_Manage face entries_
-
-_View attendance analytics_
-
-_Export attendance reports_
-
+- Upload master data (student/faculty records)
+- Approve or reject user registration
+- Manage users, faculty, students
+- Approve/reject leave requests
+- Manage face entries
+- View attendance analytics
+- Export attendance reports
 
 ### Installation & Setup (Step-by-Step)
 
@@ -197,6 +192,7 @@ AttendEase/
 Tushya R. Parmar
 
 AI and Computer Vision Enthusiast
+
 
 
 
