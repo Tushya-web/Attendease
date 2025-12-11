@@ -8,65 +8,65 @@ https://github.com/user-attachments/assets/03b4130c-6bcc-4957-811b-0bff7711e6cb
 
 ## Project Information
 
-_Django-based Web Application
+_Django-based Web Application_
 
-Face Recognition using DeepFace (FaceNet backend)
+_Face Recognition using DeepFace (FaceNet backend)_
 
-Real-Time Attendance Marking with Liveness Detection
+_Real-Time Attendance Marking with Liveness Detection_
 
-Admin Dashboard Powered by Jazzmin
+_Admin Dashboard Powered by Jazzmin_
 
-Student/Employee Management
+_Student/Employee Management_
 
-Daily Attendance, Time-based Attendance (IN/OUT)
+_Daily Attendance, Time-based Attendance (IN/OUT)_
 
-Export Attendance as CSV/Excel
+_Export Attendance as CSV/Excel_
 
-Responsive UI (HTML, CSS, JS)_
+_Responsive UI (HTML, CSS, JS)_
 
 ## AI + Face Verification
 
-_DeepFace with FaceNet model
+_DeepFace with FaceNet model_
 
-Real-time webcam recognition
+_Real-time webcam recognition_
 
-Liveness detection (anti-spoofing)
+_Liveness detection (anti-spoofing)__
 
-Face must match the master/default face uploaded by admin_
+_Face must match the master/default face uploaded by admin_
 
 ## User Portal
 
-_Register & Login
+_Register & Login_
 
-Add face (must match master data)
+_Add face (must match master data)_
 
-Mark attendance
+_Mark attendance_
 
-View attendance
+_View attendance_
 
-View uploaded faces
+_View uploaded faces_
 
-Apply for leave
+_Apply for leave_
 
-Update personal information
+_Update personal information_
 
-Download attendance (PDF/CSV)_
+_Download attendance (PDF/CSV)_
 
 ## Admin Panel (Jazzmin Dashboard)
 
-_Upload master data (student/faculty records)
+_Upload master data (student/faculty records)_
 
-Approve or reject user registration
+_Approve or reject user registration_
 
-Manage users, faculty, students
+_Manage users, faculty, students_
 
-Approve/reject leave requests
+_Approve/reject leave requests_
 
-Manage face entries
+_Manage face entries_
 
-View attendance analytics
+_View attendance analytics_
 
-Export attendance reports_
+_Export attendance reports_
 
 
 ### Installation & Setup (Step-by-Step)
@@ -150,6 +150,7 @@ python manage.py runserver
 Tushya R. Parmar
 
 AI and Computer Vision Enthusiast
+
 
 
 
