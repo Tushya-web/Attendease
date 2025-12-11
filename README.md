@@ -6,23 +6,23 @@ It features secure face verification, user registration, attendance tracking, le
 
 https://github.com/user-attachments/assets/03b4130c-6bcc-4957-811b-0bff7711e6cb
 
-> [!NOTE] 
+## Project Information
 
-> Django-based Web Application
+Django-based Web Application
 
-> Face Recognition using DeepFace (FaceNet backend)
+Face Recognition using DeepFace (FaceNet backend)
 
-> Real-Time Attendance Marking with Liveness Detection
+Real-Time Attendance Marking with Liveness Detection
 
-> Admin Dashboard Powered by Jazzmin
+Admin Dashboard Powered by Jazzmin
 
-> Student/Employee Management
+Student/Employee Management
 
-> Daily Attendance, Time-based Attendance (IN/OUT)
+Daily Attendance, Time-based Attendance (IN/OUT)
 
-> Export Attendance as CSV/Excel
+Export Attendance as CSV/Excel
 
-> Responsive UI (HTML, CSS, JS)
+Responsive UI (HTML, CSS, JS)
 
 ## AI + Face Verification
 
