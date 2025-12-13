@@ -195,8 +195,6 @@ AttendEase/
 │   ├── models.py
 │   ├── views.py
 │   ├── detectors/
-│   │   ├── facenet.py
-│   │   └── liveness.py
 │   ├── templates/
 │   ├── static/
 │   ├── utils/
@@ -222,6 +220,7 @@ AI and Computer Vision Enthusiast
 ![GitHub Repo stars](https://img.shields.io/github/stars/Tushya-web/Attendease_3.9?style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/Tushya-web/Attendease_3.9?style=flat)
 ![GitHub issues](https://img.shields.io/github/issues/Tushya-web/Attendease_3.9?style=flat)
+
 
 
 
