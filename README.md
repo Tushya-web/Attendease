@@ -19,57 +19,21 @@ It features secure face verification, user registration, attendance tracking, le
 - [Project Structure](#project-structure)
 - [Author](#author)
 
-
 ## Technology Documentation
-<!-- Tech Stack Badges -->
-<p align="left">
 
-<!-- Python -->
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-</a>
+**Frontend**
+<p align="left"> <!-- HTML --> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.shields.io/badge/HTML5-Frontend-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> </a> <!-- CSS --> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> </a> <!-- JavaScript --> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </a> </p>
 
-<!-- Django -->
-<a href="https://www.djangoproject.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Django-4.x-0C4B33?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
-</a>
+**Backend**
+<p align="left"> <!-- Python --> <a href="https://www.python.org/" target="_blank"> <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white"/> </a> </p>
 
-<!-- DeepFace -->
-<a href="https://serengil.github.io/deepface/" target="_blank">
-  <img src="https://img.shields.io/badge/DeepFace-FaceNet-F9A825?style=for-the-badge&logo=google&logoColor=white" alt="DeepFace Badge"/>
-</a>
+**Frameworks & Libraries**
+<p align="left"> <!-- Django --> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/Django-4.x-0C4B33?style=for-the-badge&logo=django&logoColor=white"/> </a> <!-- Jazzmin --> <a href="https://django-jazzmin.readthedocs.io/" target="_blank"> <img src="https://img.shields.io/badge/Jazzmin-Admin%20Theme-8A2BE2?style=for-the-badge&logo=django&logoColor=white"/> </a> </p>
 
-<!-- FaceNet -->
-<a href="https://arxiv.org/abs/1503.03832" target="_blank">
-  <img src="https://img.shields.io/badge/FaceNet-Embedding%20Model-1976D2?style=for-the-badge&logo=google&logoColor=white" alt="FaceNet Badge"/>
-</a>
-
-<!-- OpenCV -->
-<a href="https://opencv.org/" target="_blank">
-  <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Badge"/>
-</a>
-
-<!-- Jazzmin -->
-<a href="https://django-jazzmin.readthedocs.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Jazzmin-Admin%20Theme-8A2BE2?style=for-the-badge&logo=django&logoColor=white" alt="Jazzmin Badge"/>
-</a>
-
-<!-- HTML -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://img.shields.io/badge/HTML5-Frontend-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge"/>
-</a>
-
-<!-- CSS -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://img.shields.io/badge/CSS3-Styles-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge"/>
-</a>
-
-<!-- JavaScript -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
-</a>
-
-</p>
+**AI & Computer Vision**
+<p align="left"> <!-- Conversational AI --> <img src="https://img.shields.io/badge/Conversational-AI%20Chatbot-blueviolet?style=for-the-badge&logo=chatbot&logoColor=white"/> <!-- AI Powered --> <img src="https://img.shields.io/badge/AI-Powered-orange?style=for-the-badge&logo=artificial-intelligence&logoColor=white"/> <!-- DeepFace --> <a href="https://serengil.github.io/deepface/" target="_blank"> <img src="https://img.shields.io/badge/DeepFace-FaceNet-F9A825?style=for-the-badge&logo=google&logoColor=white"/> </a> <!-- FaceNet --> <a href="https://arxiv.org/abs/1503.03832" target="_blank"> 
+  <!-- OpenCV -->  <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FaceNet-Embedding%20Model-1976D2?style=for-the-badge&logo=google&logoColor=white"/> </a> </p>
 
 ## Screenshots
 
@@ -98,7 +62,8 @@ It features secure face verification, user registration, attendance tracking, le
 https://github.com/user-attachments/assets/03b4130c-6bcc-4957-811b-0bff7711e6cb 
 
 ## Features
-- Django-based full-stack architecture  
+- Django-based full-stack architecture
+- Gemini AI Chatbot for Information & Assistance 
 - DeepFace FaceNet-based face matching  
 - Secure master-face verification  
 - Real-time webcam-based recognition  
@@ -117,6 +82,11 @@ https://github.com/user-attachments/assets/03b4130c-6bcc-4957-811b-0bff7711e6cb
 - Daily Attendance, Time-based Attendance (IN/OUT)
 - Export Attendance as CSV/Excel
 - Responsive UI (HTML, CSS, JS)
+
+## Gemini AI Integration
+- AttendEase uses a Gemini-powered chatbot as an intelligent assistant to provide
+system-related information, attendance rules, and user guidance through
+conversational AI, improving usability and system understanding.
 
 ## AI + Face Verification
 - DeepFace with FaceNet model
@@ -186,26 +156,31 @@ python manage.py runserver
 ```
 AttendEase/
 │
-├── attendease/
+├── attendease/                 # Django project configuration
 │   ├── settings.py
 │   ├── urls.py
 │   └── wsgi.py
 │
-├── attendance_app/
-│   ├── models.py
-│   ├── views.py
-│   ├── detectors/
-│   ├── templates/
-│   ├── static/
-│   ├── utils/
+├── accounts_app/             # Core attendance application
+│   ├── models.py               # Database models
+│   ├── views.py                # Request handling logic
+│   ├── facesystem.py/          # Face detection & recognition modules
+│   ├── forms.py/               # For custom forms
+│   ├── templates/              # HTML templates
+│   ├── static/                 # CSS, JavaScript, assets
+│   ├── utils/                  # Helper functions
 │   └── urls.py
 │
-├── media/
-│   ├── master_faces/
-│   └── user_faces/
+├── static/                     # Css & js for Admin Dashboard
+├── staticfiles/
+├── media/                      # Face image storage
+│   ├── master_faces/           # Registered faces
+│   ├── Master_data_csv/        # csv file store here
+│   ├── deepface_model/         # Deepface Facenet Model stores here
+│   └── user_faces/             # Captured attendance images
 │
-├── requirements.txt
-└── README.md
+├── requirements.txt            # Python dependencies
+└── README.md                   # Project documentation
 ```
 
 ### Author
@@ -220,23 +195,3 @@ AI and Computer Vision Enthusiast
 ![GitHub Repo stars](https://img.shields.io/github/stars/Tushya-web/Attendease_3.9?style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/Tushya-web/Attendease_3.9?style=flat)
 ![GitHub issues](https://img.shields.io/github/issues/Tushya-web/Attendease_3.9?style=flat)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
